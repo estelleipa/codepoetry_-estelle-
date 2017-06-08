@@ -7,3 +7,5 @@ set more off
 sysuse auto
 
 reg price mpg
+
+display "Hello"
