@@ -12,5 +12,6 @@ display "Hello"
 
 histogram price, title("Histogram of price")
 
+display "Goodbye5"
 
 twoway scatter mpg price
