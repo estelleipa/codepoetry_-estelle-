@@ -12,6 +12,5 @@ display "Hello"
 
 histogram price, title("Histogram of price")
 
-display "Hello234"
 
 twoway scatter mpg price
