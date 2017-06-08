@@ -9,3 +9,5 @@ sysuse auto
 reg price mpg
 
 display "Hello"
+
+histogram price, title("Histogram of price")
